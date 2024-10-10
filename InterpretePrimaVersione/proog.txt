@@ -1,0 +1,20 @@
+{
+  int a;
+  int b;
+  a = 0;
+  b = 0;
+do
+ {
+  print(333);
+  if(true)
+  {
+   if(true)
+   {
+    break;
+   }
+  }
+  print(766);
+ }while(b<10);
+
+}
+
